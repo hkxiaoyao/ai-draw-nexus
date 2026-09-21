@@ -79,8 +79,8 @@ In the chat panel on the right side of the editor, you can:
 ### 1. Clone and Install Dependencies
 
 ```bash
-git clone https://github.com/liujuntao123/smart-ai-draw
-cd smart-ai-draw
+git clone https://github.com/hkxiaoyao/ai-draw-nexus
+cd ai-draw-nexus
 pnpm install
 ```
 
